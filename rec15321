@@ -1,0 +1,40 @@
+Strauss-Max-p2:
+total 764
+-rwxr-xr-x. 1 ugrad  28912 Jul 25 21:13 cat
+-rw-r--r--. 1 ugrad    998 Jul 25 21:12 cat.cpp
+-rw-r--r--. 1 ugrad    550 Jul 24 13:13 cat.cpp~
+-rw-r--r--. 1 ugrad  37736 Jul 25 21:13 cat.o
+-rwxr-xr-x. 1 ugrad  28807 Jul 24 23:03 ln
+-rw-r--r--. 1 ugrad   1155 Jul 24 23:03 ln.cpp
+-rw-r--r--. 1 ugrad   1155 Jul 23 13:40 ln.cpp~
+-rw-r--r--. 1 ugrad  37648 Jul 24 23:03 ln.o
+-rwxr-xr-x. 1 ugrad  72730 Jul 25 12:45 ls
+-rw-r--r--. 1 ugrad   2632 Jul 25 12:45 ls.cpp
+-rw-r--r--. 1 ugrad   2624 Jul 25 12:40 ls.cpp~
+-rw-r--r--. 1 ugrad 120816 Jul 25 12:45 ls.o
+-rw-r--r--. 1 ugrad    809 Jul 25 21:13 Makefile
+-rw-r--r--. 1 ugrad    706 Jul 25 20:30 Makefile~
+-rw-r--r--. 1 ugrad    116 Jul 26 00:10 mkdir.cpp
+-rwxr-xr-x. 1 ugrad  29701 Jul 26 00:18 mv
+-rw-r--r--. 1 ugrad   1460 Jul 26 00:18 mv.cpp
+-rw-r--r--. 1 ugrad   1459 Jul 26 00:18 mv.cpp~
+-rw-r--r--. 1 ugrad  39352 Jul 26 00:18 mv.o
+-rwxr-xr-x. 1 ugrad  26822 Jul 22 00:29 penv
+-rw-r--r--. 1 ugrad    270 Jul 22 00:09 penv.cpp
+-rw-r--r--. 1 ugrad  34656 Jul 22 00:29 penv.o
+-rwxr-xr-x. 1 ugrad  27269 Jul 22 14:40 pwd
+-rw-r--r--. 1 ugrad    396 Jul 22 14:40 pwd.cpp
+-rw-r--r--. 1 ugrad    394 Jul 22 00:03 pwd.cpp~
+-rw-r--r--. 1 ugrad  34840 Jul 22 14:40 pwd.o
+-rw-r--r--. 1 ugrad    296 Jul 25 21:47 README.txt
+-rw-r--r--. 1 ugrad      0 Jul 26 00:20 rec15321
+-rwxr-xr-x. 1 ugrad  29540 Jul 24 22:04 rm
+-rw-r--r--. 1 ugrad   1811 Jul 24 22:04 rm.cpp
+-rw-r--r--. 1 ugrad   1803 Jul 24 22:01 rm.cpp~
+-rw-r--r--. 1 ugrad  38968 Jul 24 22:04 rm.o
+-rwxr-xr-x. 1 ugrad  30670 Jul 23 00:05 stat
+-rw-r--r--. 1 ugrad   1809 Jul 23 00:05 stat.cpp
+-rw-r--r--. 1 ugrad   1828 Jul 23 00:02 stat.cpp~
+-rw-r--r--. 1 ugrad  41552 Jul 23 00:05 stat.o
+-rw-r--r--. 1 ugrad     31 Jul 25 21:14 text.txt
+/home/ugrads/strauss/csci1730/Strauss-Max-p2:/home/work/cs1730a
